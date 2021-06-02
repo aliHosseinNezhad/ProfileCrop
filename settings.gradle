@@ -1,0 +1,3 @@
+rootProject.name = "ProfileImageCrop"
+include ':app'
+include ':profilePhotoCrop'
